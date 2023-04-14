@@ -1,0 +1,11 @@
+{
+    "python.linting.pylintArgs": [
+    // "--generated-members=numpy.* ,torch.*, fairseq.*",
+    "pylint.args=--errors-only",
+    ],
+    "python.analysis.extraPaths": [
+        "/Users/xuhaiyang/Desktop/Playground/OFA/fairseq",
+        "/Users/xuhaiyang/Softwares/anaconda3/envs/torch/lib/python3.10/site-packages/torch",
+        "/Users/xuhaiyang/Softwares/anaconda3/envs/torch/lib/python3.10/site-packages/numpy"
+    ],
+}
