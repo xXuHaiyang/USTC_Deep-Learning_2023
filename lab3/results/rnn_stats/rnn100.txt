@@ -1,0 +1,10 @@
+epoch: 0, train loss: 0.643434, train acc: 0.654850, val loss: 0.655686, val acc: 0.645633,  time: 0:01:14.223765
+epoch: 1, train loss: 0.636192, train acc: 0.659950, val loss: 0.655179, val acc: 0.650841,  time: 0:01:13.434810
+epoch: 2, train loss: 0.621980, train acc: 0.669400, val loss: 0.634562, val acc: 0.659655,  time: 0:01:12.338075
+epoch: 3, train loss: 0.620569, train acc: 0.645350, val loss: 0.629596, val acc: 0.630008,  time: 0:01:12.982673
+epoch: 4, train loss: 0.852155, train acc: 0.592450, val loss: 0.859586, val acc: 0.589343,  time: 0:01:12.253768
+epoch: 5, train loss: 0.631645, train acc: 0.669900, val loss: 0.645976, val acc: 0.662861,  time: 0:01:10.692598
+epoch: 6, train loss: 0.637821, train acc: 0.646250, val loss: 0.650207, val acc: 0.628005,  time: 0:01:11.697914
+epoch: 7, train loss: 0.573786, train acc: 0.698100, val loss: 0.595094, val acc: 0.676282,  time: 0:01:11.002026
+epoch: 8, train loss: 0.593394, train acc: 0.689950, val loss: 0.618154, val acc: 0.669471,  time: 0:01:10.265189
+epoch: 9, train loss: 0.601074, train acc: 0.695500, val loss: 0.624424, val acc: 0.676482,  time: 0:01:09.992360
